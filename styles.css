@@ -19,3 +19,8 @@ h3 {
   border-bottom: solid 4px gray;
   padding-bottom: 8px;
 }
+footer {
+  background: #b3b3cc;
+  padding: 10px
+  border-radius:10px
+}
