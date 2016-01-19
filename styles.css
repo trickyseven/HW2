@@ -10,7 +10,7 @@ img {
 }
 
 .header {
-  background: #EEE;
+  background: #e0e0eb;
   padding: 14px;
   border-radius: 15px;
 }
@@ -20,7 +20,7 @@ h3 {
   padding-bottom: 8px;
 }
 footer {
-  background: #b3b3cc;
-  padding: 10px
-  border-radius:10px
+  background-color: #b3b3cc;
+  padding: 10px;
+  border-radius:10px;
 }
